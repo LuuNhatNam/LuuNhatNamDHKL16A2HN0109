@@ -1,0 +1,2 @@
+teams=[['Steaven','Neena','Lex','Alexander','Bruce'],['David','Jack','Bill','Tom','Mike','Daniel'],['Alexander','Adam','Payam','Kevin','Sigal','Mike']]
+print("Tên đội trưởng đội tệ nhất: ",teams[2][1])
